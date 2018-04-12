@@ -1,0 +1,25 @@
+{
+  "name": "zk-curator-gs",
+  "version": "1.0.0",
+  "description": "zookeeper set and get data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GaloisZhou/zk-curator-gs.git"
+  },
+  "keywords": [
+    "zookeeper"
+  ],
+  "author": "Galois",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GaloisZhou/zk-curator-gs/issues"
+  },
+  "homepage": "https://github.com/GaloisZhou/zk-curator-gs#readme",
+  "dependencies": {
+    "node-zookeeper-client": "^0.2.2"
+  }
+}
